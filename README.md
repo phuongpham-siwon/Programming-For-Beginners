@@ -7,13 +7,13 @@
 
 
 ## About 📌📌📌
-This respository is designed to provide new programmers with hands-on projects and step-by-step explanations. 
+This respository is designed to provide new programmers with hands-on projects and step-by-step explanations.<br>
 Find details about each project in their folders. 
 
 ## Coding Languages 🌐🌐🌐
-Python 
-C/C++
-Java 
+* Python 
+* C/C++
+* Java 
         
                                                                           
                                       ...                                 
